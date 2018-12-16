@@ -8,6 +8,8 @@ Component demonstrates the use of [lightning:backgroundUtilityItem](https://deve
 4. Click **Add Utility Item** and select the **Keyboard Shortcuts** component
 5. Configure the component as shown in the example below and click **Save**
 
+![example](https://raw.githubusercontent.com/afawcett/kbshortcututil/master/images/kbsexample.png)
+
 Supported Keyboard Shortcut Actions
 ------------------------------------
 
