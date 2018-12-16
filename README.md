@@ -32,7 +32,7 @@ Create the Flow output varialbles with the following names to accomplish the abo
 
 | Variable Name | Variable Value |
 | ------------- | ----------- |
-| kbs_runFlow | For example flowui:MyUIFlow or flowauto:MyAutoFlow |
+| kbs_runFlow | For example **flowui:MyUIFlow** or **flowauto:MyAutoFlow** |
 | kbs_event | Name of one of the [Lightning Experience naivigation events](https://developer.salesforce.com/docs/component-library/bundle/force:navigateToSObject/documentation), for example set the value to **e.force:navigateToSObject** |
 | kbs_param_xxxx | Where **xxxx** is the name of a related parameter to the above event, For example create a variable called **kbs_param_recordId** and set its value to a record Id. |
 
