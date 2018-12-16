@@ -10,6 +10,8 @@ Component demonstrates the use of [lightning:backgroundUtilityItem](https://deve
 
 ![example](https://raw.githubusercontent.com/afawcett/kbshortcututil/master/images/kbsexample.png)
 
+**NOTE:** You can configure up to 9 shortcuts. If you need more add another instance of the component to the utlity bar.
+
 Supported Keyboard Shortcut Actions
 ------------------------------------
 
