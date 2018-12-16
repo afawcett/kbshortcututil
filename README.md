@@ -7,6 +7,7 @@ Component demonstrates the use of [lightning:backgroundUtilityItem](https://deve
 3. Select **Utility Items** under **APP SETTINGS**
 4. Click **Add Utility Item** and select the **Keyboard Shortcuts** component
 5. Configure the component as shown in the example below and click **Save**
+6. You may need to refresh the page a couple of times or login / logout after first adding the component.
 
 ![example](https://raw.githubusercontent.com/afawcett/kbshortcututil/master/images/kbsexample.png)
 
@@ -41,3 +42,12 @@ Create the Flow output varialbles with the following names to accomplish the abo
 | kbs_param_xxxx | Where **xxxx** is the name of a related parameter to the above event, For example create a variable called **kbs_param_recordId** and set its value to a record Id. |
 
 To display a popup message set **kbs_event** equal to **e.force:showToast** and **kbs_param_message** equal to your message.
+
+Package Versions
+----------------
+
+If you are an admin this might be a better option to install the component.
+
+**NOTE:** This is an unlocked package, meaning you can see the contents of it in the installed org.
+
+- [Version v0.1 - Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6A000002wBcQQAU) / [Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04t6A000002wBcQQAU). Initial release.
