@@ -1,0 +1,11 @@
+<design:component label="Keyboard Shortcuts" >
+    <design:attribute name="shortcut1" label="Shortcut 1" description="Example: Shift+U flowui:MyUIFlow"/>
+    <design:attribute name="shortcut2" label="Shortcut 2" description="Example: Alt+A flowauto:MyAutoFlow" />
+    <design:attribute name="shortcut3" label="Shortcut 3" description="Example: Shift+U navigate:home" />
+    <design:attribute name="shortcut4" label="Shortcut 4" description="Example: Shift+U flowui:MyUIFlow" />
+    <design:attribute name="shortcut5" label="Shortcut 5" description="Example: Shift+U flowui:MyUIFlow" />
+    <design:attribute name="shortcut6" label="Shortcut 6" description="Example: Shift+U flowui:MyUIFlow" />
+    <design:attribute name="shortcut7" label="Shortcut 7" description="Example: Shift+U flowui:MyUIFlow" />
+    <design:attribute name="shortcut8" label="Shortcut 8" description="Example: Shift+U flowui:MyUIFlow" />
+    <design:attribute name="shortcut9" label="Shortcut 9" description="Example: Shift+U flowui:MyUIFlow" />
+</design:component>

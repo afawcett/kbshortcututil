@@ -1,0 +1,16 @@
+<aura:component implements="lightning:backgroundUtilityItem" >
+    <aura:attribute name="shortcut1" type="String" required="false"/>
+    <aura:attribute name="shortcut2" type="String" required="false"/>
+    <aura:attribute name="shortcut3" type="String" required="false"/>
+    <aura:attribute name="shortcut4" type="String" required="false"/>
+    <aura:attribute name="shortcut5" type="String" required="false"/>
+    <aura:attribute name="shortcut6" type="String" required="false"/>
+    <aura:attribute name="shortcut7" type="String" required="false"/>
+    <aura:attribute name="shortcut8" type="String" required="false"/>
+    <aura:attribute name="shortcut9" type="String" required="false"/>
+    <aura:attribute name="shortcuts" type="Map" access="private"/>
+    <aura:attribute name="modalPromise" type="Aura.Action"/>
+    <aura:handler name="init" value="{!this}" action="{!c.init}" />
+    <lightning:overlayLibrary aura:id="overlayLib"/>
+    <div>{!v.body}</div>
+</aura:component>
