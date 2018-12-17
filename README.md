@@ -1,6 +1,6 @@
 # Custom Keyboard Shortcuts Component
 
-Component demonstrates the use of [lightning:backgroundUtilityItem](https://developer.salesforce.com/docs/component-library/bundle/lightning:backgroundUtilityItem) to implement declaratively defined keyboard shortcuts through the components attributes. Currently allows the user to assign keyboard shortcuts to run [Flows](https://help.salesforce.com/articleView?id=vpm_admin_flow_overview.htm&type=5) and navigate to Home tab.
+Component demonstrates the use of [lightning:backgroundUtilityItem](https://developer.salesforce.com/docs/component-library/bundle/lightning:backgroundUtilityItem) to implement declaratively defined keyboard shortcuts through the components attributes. Currently allows the user to assign keyboard shortcuts to run [Flows](https://help.salesforce.com/articleView?id=vpm_admin_flow_overview.htm&type=5) and navigate to Home tab. Read [more about this component in this blog](https://andyinthecloud.com/2018/12/16/custom-keyboard-shortcuts-with-lightning-background-utilities/).
 
 1. Install [package]() (admins) or deploy the component to your org via [sfdx force:source:deploy](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_source.htm) (devs).
 2. Edit the desired application under **App Manager** under **Setup**
