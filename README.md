@@ -45,6 +45,8 @@ To display a popup message set **kbs_event** equal to **e.force:showToast** and 
 
 ![exampleconfig](https://raw.githubusercontent.com/afawcett/kbshortcututil/master/images/flowsendmessage.png)
 
+![toastmessage](https://andrewfawcett.files.wordpress.com/2018/12/runflow1.png)
+
 Package Versions
 ----------------
 
