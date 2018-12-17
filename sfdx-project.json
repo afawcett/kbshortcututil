@@ -12,6 +12,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "Keyboard Shortcut Component": "0Ho6A000000blLZSAY"
+        "Keyboard Shortcut Component": "0Ho6A000000blLZSAY",
+        "Keyboard Shortcut Component@0.1.0.2": "04t6A000002wBcVQAU"
     }
 }

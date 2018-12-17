@@ -50,4 +50,4 @@ If you are an admin this might be a better option to install the component.
 
 **NOTE:** This is an unlocked package, meaning you can see the contents of it in the installed org.
 
-- [Version v0.1 - Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6A000002wBcQQAU) / [Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04t6A000002wBcQQAU). Initial release.
+- [Version v0.2 - Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6A000002wBcVQAU) / [Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04t6A000002wBcVQAU). Initial release.

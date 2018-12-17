@@ -46,6 +46,7 @@
             $A.createComponent("lightning:flow", { 'onstatuschange' : component.getReference('c.onFlowStatusChange') }, 
                 function(newFlow, status, errorMessage) {
                     if (status === "SUCCESS") {
+                        newFlow.startFlow(flow, [] );
                         component.set("v.modalPromise", 
                             component.find('overlayLib').showCustomModal({
                             header: "Keyboard Shortcut Flow",
