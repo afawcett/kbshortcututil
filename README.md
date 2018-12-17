@@ -43,6 +43,8 @@ Create the Flow output varialbles with the following names to accomplish the abo
 
 To display a popup message set **kbs_event** equal to **e.force:showToast** and **kbs_param_message** equal to your message.
 
+![exampleconfig](https://raw.githubusercontent.com/afawcett/kbshortcututil/master/images/flowsendmessage.png)
+
 Package Versions
 ----------------
 
